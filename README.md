@@ -13,3 +13,5 @@ Watch tutorial on Youtube
 
 1. Open Index.html in your browswer
 2. testtest
+3. Change step 1: some text added
+4. Change step 1: Some text 
