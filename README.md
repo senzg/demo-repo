@@ -19,13 +19,3 @@ Watch tutorial on Youtube
 ## Suppose to be Steven
 
 change 
-
-change 2
-
-## Suppose to be senzg
-
-Change
-
-## Suppose to be error
-
-Change
